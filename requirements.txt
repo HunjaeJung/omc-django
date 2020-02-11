@@ -22,7 +22,7 @@ css-html-js-minify==1.0.13
 csscompressor==0.9.4
 cssselect==0.9.1
 decorator==3.4.0
-Django==1.5.12
+Django==1.11.28
 django-htmlmin==0.8.0
 docopt==0.6.2
 docutils==0.12
