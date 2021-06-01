@@ -176,7 +176,7 @@ twkorean==0.1.5
 ua-parser==0.4.1
 UgliPyJS==0.2.5
 Unidecode==0.4.17
-urllib3==1.10
+urllib3==1.26.5
 user-agents==1.0.1
 vboxapi==1.0
 virtualenv==1.11.6
