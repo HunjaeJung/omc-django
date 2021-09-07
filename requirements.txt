@@ -112,7 +112,7 @@ pep8==1.5.7
 pexpect==4.0.1
 pickleshare==0.5
 pika==0.10.0b1
-Pillow==2.5.3
+Pillow==8.3.2
 ply==3.6
 prettytable==0.7.2
 ptyprocess==0.5
